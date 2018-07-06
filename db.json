@@ -13,10 +13,10 @@
       "id": 5
     },
     {
-      "title": "new trask",
-      "priority": "another new task",
-      "duration": "it's so new",
-      "id": 7
+      "title": "study for code challenge",
+      "priority": "high",
+      "duration": "no more than 2 hours",
+      "id": 6
     }
   ]
 }
